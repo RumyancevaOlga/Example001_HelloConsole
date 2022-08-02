@@ -1,0 +1,15 @@
+D:\Домашнее задание GeekBrains\Examples\Example006_Base\bin\Debug\net6.0\Example006_Base.exe
+D:\Домашнее задание GeekBrains\Examples\Example006_Base\bin\Debug\net6.0\Example006_Base.deps.json
+D:\Домашнее задание GeekBrains\Examples\Example006_Base\bin\Debug\net6.0\Example006_Base.runtimeconfig.json
+D:\Домашнее задание GeekBrains\Examples\Example006_Base\bin\Debug\net6.0\Example006_Base.dll
+D:\Домашнее задание GeekBrains\Examples\Example006_Base\bin\Debug\net6.0\Example006_Base.pdb
+D:\Домашнее задание GeekBrains\Examples\Example006_Base\obj\Debug\net6.0\Example006_Base.csproj.AssemblyReference.cache
+D:\Домашнее задание GeekBrains\Examples\Example006_Base\obj\Debug\net6.0\Example006_Base.GeneratedMSBuildEditorConfig.editorconfig
+D:\Домашнее задание GeekBrains\Examples\Example006_Base\obj\Debug\net6.0\Example006_Base.AssemblyInfoInputs.cache
+D:\Домашнее задание GeekBrains\Examples\Example006_Base\obj\Debug\net6.0\Example006_Base.AssemblyInfo.cs
+D:\Домашнее задание GeekBrains\Examples\Example006_Base\obj\Debug\net6.0\Example006_Base.csproj.CoreCompileInputs.cache
+D:\Домашнее задание GeekBrains\Examples\Example006_Base\obj\Debug\net6.0\Example006_Base.dll
+D:\Домашнее задание GeekBrains\Examples\Example006_Base\obj\Debug\net6.0\refint\Example006_Base.dll
+D:\Домашнее задание GeekBrains\Examples\Example006_Base\obj\Debug\net6.0\Example006_Base.pdb
+D:\Домашнее задание GeekBrains\Examples\Example006_Base\obj\Debug\net6.0\Example006_Base.genruntimeconfig.cache
+D:\Домашнее задание GeekBrains\Examples\Example006_Base\obj\Debug\net6.0\ref\Example006_Base.dll
